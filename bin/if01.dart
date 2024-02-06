@@ -9,4 +9,5 @@ Returns:
     int: return answer.
 */
 void main() {
+    print("hello world");
 }
